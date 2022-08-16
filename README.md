@@ -1,3 +1,3 @@
 # Genetic-Algorithms
 
-Here are some  examples of genetic algorithm
+Here are some examples of genetic algorithm
