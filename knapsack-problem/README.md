@@ -1,5 +1,5 @@
 # Knapsack Problem
-Solves the classic knapsack problem using a genetic algorithm. The problem can be solved by running `genetic.py`. The Monte-Carlos simulation can be run by running `montecarlos.py`.
+Solves the classic knapsack problem using a genetic algorithm. The problem can be solved by running `genetic.py`. The Monte-Carlo simulation can be run by running `montecarlo.py`.
 
 ## Problem Statement:
 Choose which items to pack into a knapsack to maximize the value of the knapsacks contents without exceeding the specified weight limit.
